@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @nilav06
-- 👀 I’m interested in Azure ,Devops,Network and security.
-- 🌱 I’m currently learning Azure Devops
-- 💞️ I’m looking to collaborate with similar interest learn and share.
-- 📫 How to reach me 📧 at nilavan06@gmail.com
-- 😄 Pronouns: ...Nilavan
-- ⚡ Fun fact: ...Reach me out to find.
-
-<!---
-nilav06/nilav06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Metadata
+🔭 I’m currently working as Lead Service Desk and Monitoring tool administrator.
+🌱 I’m heading towards practicing AI & WebApps
+📫 reach me 📧 at nilavan06@gmail.com
+📞 WhatsApp Dial: +91-9080181577
+😄 Pronouns: He/Him
+⚡ Fun fact: Playing outdoor games | Travel | Breathing Tech
