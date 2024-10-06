@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with similar interest learn and share.
 - 📫 How to reach me 📧 at nilavan06@gmail.com
 - 😄 Pronouns: ...Nilavan
-- ⚡ Fun fact: ...Reach me out.
+- ⚡ Fun fact: ...Reach me out to find.
 
 <!---
 nilav06/nilav06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
