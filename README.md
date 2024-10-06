@@ -1,4 +1,3 @@
-My Metadata
 🔭 I’m currently working as Lead Service Desk and Monitoring tool administrator
 🌱 I’m heading towards practicing AI & WebApps
 📫 reach me 📧 at nilavan06@gmail.com
